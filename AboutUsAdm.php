@@ -3,7 +3,7 @@ session_start();
 //echo $_SESSION["myusername"];
 if($_SESSION["myusername"] != "drasko"){
 	header("Location: /partial/admin.php");
-    //echo "<script>window.location.assign('/partial/admin.php')</script>";proba test2
+    //echo "<script>window.location.assign('/partial/admin.php')</script>";proba test2666987ryfuithfgi, fyfgumdty
 }
 ?>
 <!DOCTYPE html>
